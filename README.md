@@ -39,6 +39,6 @@ The dataset comprises 590,540 transactions, of which 20,663 are marked as fraudu
 ## Tech Stack
 - Python: pandas, NumPy, scikit-learn
 - Data Visualization: Matplotlib, Seaborn
-- Machine Learning Techniques: Linear Regression, Decision Trees, Random Forest, Gradient Boosting, XGBoost
-- Model Evaluation Metrics: 
-- Feature Engineering: One-Hot Encoding, Scaling
+- Machine Learning Techniques: Linear Regression, Decision Trees, Random Forest, Gradient Boosting, KNN, XGBoost, CatBoost
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+- Feature Engineering: Label Encoding, Feature Scaling
